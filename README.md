@@ -1,2 +1,2 @@
-# react-daisyui
+# printdesignfactory
 Created with CodeSandbox
